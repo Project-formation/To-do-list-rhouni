@@ -1,1 +1,1 @@
-
+Ce projet est une application de gestion des tâches qui permet à l'utilisateur d'ajouter, modifier, supprimer et filtrer les tâches. Les données sont stockées dans le LocalStorage pour persister après rechargement de la page.
